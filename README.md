@@ -6,3 +6,7 @@ In this python project, analysis and visualization of rent data in certain areas
  ###  Overview 
 
   Which U.S. cities are the most expensive for rental housing? Where are rents rising fastest?  I analyzed and visualized the American Community Survey (ACS)'s latest batch  of 1-year data. The 2014 rent 1-year data was released in September. I downloaded  the 2010 and 2014 ACS median contract rent data and the annual estimates of resident  population from 2010-2014 from the Census Bureau's American FactFinder web site.  These data sets cover every U.S. metropolitan and micropolitan area for which the ACS  gathers rent data. Some metro area names and IDs changed between 2010 and 2014, in which  instances i had to map them to one another.
+  
+ ### Requirements
+ 1. Jupyter Notebook/Pycharm Professional Version
+ 2. Microsoft Excel/LibreOffice Calc
